@@ -30,6 +30,7 @@
   >- [書籍](./docs/docs_book)
   >>- [理論](./docs/docs_book/docs_theory.md)
   >>- [手法](./docs/docs_book/docs_methodology.md)
+  >>- [大槌関連](./docs/docs_book/docs_otsuchi.md)
 - 基礎データ
   >- [国勢調査系](./docs/docs_data/statisticaldata_sensus.md)
   >- [行政公表系（県or市町村）](./docs/docs_data/statistical_data_prof_town.md)
