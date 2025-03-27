@@ -17,6 +17,6 @@
   >- Blaikie, P.M., Cannon, T. Davis, I. and Wisner, B. 1994. At Risk. Natural Hazards, People's Vulnerability, and Disasters. Routledge.
   >- Cutter, S. L. 1996. Vulnerability to environmental hazards. Progress in Human Geography 20(4): 529-539.
   >- Solnit, R. 2009. A Paradise Built in Hell: The Extraordinary Communities That Arise in Disaster. Viking Adult. レベッカ・ソルニット著, 高月園子訳 2020. 『定本 災害ユートピア なぜそのとき特別な共同体が立ち上がるのか』.
-  >- 大槌町 2023. 大槌町津波避難計画（全町版）. （最終閲覧日2024年7月21日）
+  >- 大槌町 2023. 大槌町津波避難計画（全町版）. （最終閲覧日2024年7月21日）https://www.town.otsuchi.iwate.jp/fs/2/4/7/6/7/3/_/R5______________.pdf
   >- 国勢調査　令和２年国勢調査	人口等基本集計　（主な内容：男女・年齢・配偶関係，世帯の構成，住居の状態，母子・父子世帯，国籍など）. （最終閲覧日2024年11月5日）https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200521&tstat=000001136464&cycle=0&tclass1=000001136466&tclass2val=0
 
