@@ -20,16 +20,16 @@
 - 分野別参考文献
   >- [論文](./docs/docs_paper)
   >>- [災害・防災](./docs/docs_paper/paper_disaster.md)
-  >>- [文化・産業](./docs/docs_paper/paper_disaster.md)
-  >>- [交通](./docs/docs_paper/paper_disaster.md)
-  >>- [インフラ・都市・シビックプライド](./docs/docs_paper/paper_disaster.md)
-  >>- [災害・防災](./docs/docs_paper/paper_disaster.md)
+  >>- [文化・産業](./docs/docs_paper/paper_culture_industory.md)
+  >>- [交通](./docs/docs_paper/paper_transportation.md)
+  >>- [インフラ・都市・シビックプライド](./docs/docs_paper/paper_city.md)
+  >>- [行政](./docs/docs_paper/paper_goverment.md)
   >- [書籍](./docs/docs_book)
   >>- [理論](./docs/docs_book/docs_theory.md)
   >>- [手法](./docs/docs_book/docs_methodology.md)
 - 基礎データ
-  >- [国勢調査系]()
-  >- [行政公表系（県or市町村）]()
+  >- [国勢調査系](./docs/docs_data/statisticaldata_sensus.md)
+  >- [行政公表系（県or市町村）](./docs/docs_data/statistical_data_prof_town.md)
 - おまけ
   >- [調査・論文作成のためのアドバイス](./docs/columm_seminar.md)
-  >- [大槌の観光スポット]()
+  >- [大槌の観光スポット](./docs/docs_columm/colimm_sightseeing_otsuchi.md)
