@@ -17,5 +17,5 @@
 - 大江崇・富田孝史 2021. 東日本大震災の事例に基づく津波火災発生に関するロジスティック回帰モデルの構築. 土木学会論文集B2（海岸工学） 77:(2) I_1063-I_1068. https://www.jstage.jst.go.jp/article/kaigan/77/2/77_I_1063/_pdf/-char/ja
 - 坂口奈央 2020. 三陸沿岸漁業集落の生活経験と震災遺構―岩手県大槌町の事例―. https://tohoku.repo.nii.ac.jp/records/130788
 - 永松伸吾・辻萌奈美 2019. 岩手県大槌町における災害ツーリズムの貨幣的価値の推計. 地域安全学会論文集 35:13-19. https://www.jstage.jst.go.jp/article/jisss/35/0/35_13/_pdf/-char/ja
-- 
+
 
