@@ -13,35 +13,36 @@
 
   >- 阿部和俊編著 2024. 『日本の都市地理学研究』 古今書院.（④）
   >- 荒井良雄・岡本耕平・神谷浩夫・川口太郎 1996. 『都市の空間と時間-生活活動の時間地理学-』 古今書院.
-  >- 滕 媛媛・埴淵知哉・中谷友樹 2023. 在日外国人の集住は統合を阻害するか？. 地理学評論 96(5): 361-383.
-  >- Blaikie, P.M., Cannon, T. Davis, I. and Wisner, B. 1994. At Risk. Natural Hazards, People's Vulnerability, and Disasters. Routledge.（⑥）
-  >- Cutter, S. L. 1996. Vulnerability to environmental hazards. Progress in Human Geography 20(4): 529-539.
-  >- Solnit, R. 2009. A Paradise Built in Hell: The Extraordinary Communities That Arise in Disaster. Viking Adult. レベッカ・ソルニット著, 高月園子訳 2020. 『定本 災害ユートピア なぜそのとき特別な共同体が立ち上がるのか』.（⑤）
-  >- 大槌町 2023. 大槌町津波避難計画（全町版）. （最終閲覧日2024年7月21日）https://www.town.otsuchi.iwate.jp/fs/2/4/7/6/7/3/_/R5______________.pdf
-  >- 大槌町 2024a. 大槌町第9次総合計画後期基本計画（最終閲覧日2024年１１月６日）https://www.town.otsuchi.iwate.jp/fs/2/5/6/9/9/2/_/_9____________________.pdf
-  >- 大槌町 2024b. 大槌町地域防災計画（最終閲覧日2024年7月21日）https://www.town.otsuchi.iwate.jp/fs/2/5/0/9/0/8/_/1___.pdf
-  >- 国勢調査　令和２年国勢調査	人口等基本集計　（主な内容：男女・年齢・配偶関係，世帯の構成，住居の状態，母子・父子世帯，国籍など）. （最終閲覧日2024年11月5日）https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200521&tstat=000001136464&cycle=0&tclass1=000001136466&tclass2val=0
+  >- 滕 媛媛・埴淵知哉・中谷友樹 2023. 在日外国人の集住は統合を阻害するか？. 地理学評論 96(5): 361-383.（③）
+  >- Blaikie, P.M., Cannon, T. Davis, I. and Wisner, B. 1994. At Risk. Natural Hazards, People's Vulnerability, and Disasters. Routledge.（⑤）
+  >- Cutter, S. L. 1996. Vulnerability to environmental hazards. Progress in Human Geography 20(4): 529-539.（③，⑤）
+  >- Solnit, R. 2009. A Paradise Built in Hell: The Extraordinary Communities That Arise in Disaster. Viking Adult. レベッカ・ソルニット著, 高月園子訳 2020. 『定本 災害ユートピア なぜそのとき特別な共同体が立ち上がるのか』.（⑤，⑥）
+  >- 大槌町 2023. 大槌町津波避難計画（全町版）. （最終閲覧日2024年7月21日）https://www.town.otsuchi.iwate.jp/fs/2/4/7/6/7/3/_/R5______________.pdf　（⑧）
+  >- 大槌町 2024a. 大槌町第9次総合計画後期基本計画（最終閲覧日2024年１１月６日）https://www.town.otsuchi.iwate.jp/fs/2/5/6/9/9/2/_/_9____________________.pdf　（⑦，⑧）
+  >- 大槌町 2024b. 大槌町地域防災計画（最終閲覧日2024年7月21日）https://www.town.otsuchi.iwate.jp/fs/2/5/0/9/0/8/_/1___.pdf（⑦，⑧）
+  >- 国勢調査　令和２年国勢調査	人口等基本集計　（主な内容：男女・年齢・配偶関係，世帯の構成，住居の状態，母子・父子世帯，国籍など）. （最終閲覧日2024年11月5日）https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200521&tstat=000001136464&cycle=0&tclass1=000001136466&tclass2val=0　（⑧）
 
-要点としては，以下の通り。
+要点としては，以下の通り。上の文献リストに対応する番号をつけています。
+
 ①日本語文献，中国語文献，韓国（朝鮮）語文献，欧語文献の順に並べる．
 
 ②日本語文献は，**著者名の五十音順**に並べる．
 
-③筆者 発行年. タイトル. 出典（巻・号・ページの順で，巻（号）：p00~p00のような表記をする）
+③筆者 発行年. タイトル. 出典（巻・号・ページの順で，**巻（号）：p00~p00**のような表記をする）
  > ex. 地理学評論85巻3号のp.259-p.274に掲載されている，瀬戸・矢野（2012）を文献表に掲載する場合：瀬戸寿一・矢野桂司 2012. 市民参加型調査による『良好な通り景観』の選定とその要因分析. 地理学評論 85(3):259-274.のように表記する
 
-④図書のタイトルは『』で囲う
+④図書のタイトルは**『』**で囲う
 
-⑤欧語文献の著者名は，姓以外はイニシャルのみ
+⑤欧語文献の著者名は，**姓以外はイニシャルのみ**
 > Rebecca Solnitの場合：Solnit,R.
 
 ⑥訳書を引用した場合には，下記の文献表の例に倣い，訳書の記述の後に，原著に関する情報を併記する．
 原著を引用した場合で，訳書も示す場合には，原著の後に併記する．
 > Smith, D. M. 1979. Where the grass is greener: Living in an unequal world. London: Penguin Books.スミス，D. M．著，竹内啓一監訳 1985．『不平等の地理学──みどりこきはいずこ』古今書院．
 
-⑦同じ著者の文献は発表年の順に並べる．同じ発表年のものが複数ある場合には，引用順に a，b，……を付して並べる．
+⑦同じ著者の文献は発表年の順に並べる．**同じ発表年のものが複数ある場合には，引用順に a，b，……**を付して並べる．
 
 ⑧Webサイトは，著者名 発行年. タイトル. URL（最終閲覧日：〇〇〇〇年〇月〇〇日）←最後，ピリオドはつけない
 
-なお，文献表と本文での文献引用では，少しルールが異なる点に注意。
+なお，**文献表と本文での文献引用では，少しルールが異なる**点に注意。
 ex). 著者が 3 人以上の場合には，筆頭著者の姓に，｢ほか｣またはet al. を付す，など
