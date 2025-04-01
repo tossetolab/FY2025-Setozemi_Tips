@@ -170,3 +170,8 @@
 - [500mメッシュ別将来推計人口（H29国政局推計）](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-mesh500.html)
 
 ## [基盤地図情報](https://www.gsi.go.jp/kiban/)
+
+- [基盤地図情報・基本項目](https://service.gsi.go.jp/kiban/app/map/?search=base,geoid#5/34.999999999999986/135)
+ >基本項目：「測量の基準点」、「海岸線」、「行政区画の境界線及び代表点」、「道路縁」、「軌道の中心線」、「標高点」、「水涯線」、「建築物の外周線」、「市町村の町若しくは字の境界線及び代表点」、「街区の境界線及び代表点」
+- [基盤地図情報・数値標高モデル](https://service.gsi.go.jp/kiban/app/map/?search=dem,geoid#5/34.999999999999986/135)
+ >DEMデータのダウンロード
