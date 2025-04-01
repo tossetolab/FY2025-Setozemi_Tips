@@ -4,7 +4,7 @@
 
 こんにちは,瀬戸ゼミ4期生（2024年度卒業生）で東北大M1の[児玉](https://github.com/geoshota)です。
 
-[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:1ng1016s@gm.komazawa-u.ac.jp)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:kodama.shota.r3@dc.tohoku.ac.jp)
 
 詳しい自己紹介は氏名を押すとCVに飛びますのでそちらからご確認ください。
 
