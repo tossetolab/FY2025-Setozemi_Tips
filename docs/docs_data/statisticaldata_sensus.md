@@ -1,4 +1,4 @@
-# 国勢調査系の基礎データ
+# 国公表の基礎データ
 
 ## 総務省統計局
 - [総務省統計局HP](https://www.stat.go.jp/)
@@ -36,3 +36,7 @@
 
 
 ## [e-Stad](https://www.e-stat.go.jp/)
+- [統計地理情報システム](https://www.e-stat.go.jp/gis)
+
+## 厚生労働省
+- [厚生労働統計一覧](https://www.mhlw.go.jp/toukei/itiran/)
