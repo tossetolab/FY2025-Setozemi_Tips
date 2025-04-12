@@ -41,4 +41,4 @@
   >- [行政公表系（県or市町村）](./docs/docs_data/statistical_data_prof_town.md)
 - おまけ
   >- [調査・論文作成のためのアドバイス](./docs/docs_columm/columm_seminar.md)
-  >- [大槌の観光スポット](./docs/docs_columm/colimm_sightseeing_otsuchi.md)
+  >- [大槌の観光情報](./docs/docs_columm/colimm_sightseeing_otsuchi.md)
