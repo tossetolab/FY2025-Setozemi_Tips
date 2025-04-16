@@ -47,7 +47,7 @@
 ## Organization
 
 <p align="center">
-  <a href="https://example.com">
+  <a href="https://github.com/tossetolab">
     <img src="fig/tossetolabicon.png" alt="Tosseto Lab Icon" width="100"/>
   </a>
 </p>
