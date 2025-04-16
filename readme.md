@@ -43,6 +43,17 @@
   >- [調査・論文作成のためのアドバイス](./docs/docs_columm/columm_seminar.md)
   >- [大槌の観光情報](./docs/docs_columm/colimm_sightseeing_otsuchi.md)
 
+## Contributors
+
+<p align="left">
+  <a href="https://github.com/geoshota">
+    <img src="https://avatars.githubusercontent.com/geoshota" width="80" style="border-radius: 50%" alt="geoshota" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/tosseto">
+    <img src="https://avatars.githubusercontent.com/tosseto" width="80" style="border-radius: 50%" alt="tosseto" />
+  </a>
+</p>
 
 ## Organization
 
