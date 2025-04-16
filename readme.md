@@ -43,6 +43,11 @@
   >- [調査・論文作成のためのアドバイス](./docs/docs_columm/columm_seminar.md)
   >- [大槌の観光情報](./docs/docs_columm/colimm_sightseeing_otsuchi.md)
 
+
+## Organization
+
 <p align="center">
-  <img src="fig/tossetolabicon.png" alt="Tosseto Lab Icon" width="100"/>
+  <a href="https://example.com">
+    <img src="fig/tossetolabicon.png" alt="Tosseto Lab Icon" width="100"/>
+  </a>
 </p>
